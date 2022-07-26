@@ -1,0 +1,282 @@
+[23-Jul-2021 03:10:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'teagilec_admin'@'h3.a1center.net' to database 'teagilec_tech' in /home/teagilec/public_html/model/conexion.php on line 7
+[23-Jul-2021 03:10:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'teagilec_admin'@'h3.a1center.net' to database 'teagilec_tech' in /home/teagilec/public_html/model/conexion.php on line 8
+[23-Jul-2021 03:10:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'teagilec_admin'@'h3.a1center.net' to database 'teagilec_tech' in /home/teagilec/public_html/model/conexion.php on line 7
+[23-Jul-2021 03:10:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'teagilec_admin'@'h3.a1center.net' to database 'teagilec_tech' in /home/teagilec/public_html/model/conexion.php on line 8
+[23-Jul-2021 03:12:44 UTC] PHP Warning:  Undefined array key "about" in /home/teagilec/public_html/layouts/footer.php on line 41
+[23-Jul-2021 03:14:10 UTC] PHP Warning:  Undefined array key "about" in /home/teagilec/public_html/layouts/footer.php on line 41
+[23-Jul-2021 03:16:52 UTC] PHP Warning:  Undefined array key "about" in /home/teagilec/public_html/layouts/footer.php on line 41
+[23-Jul-2021 03:18:16 UTC] PHP Warning:  Undefined array key "about" in /home/teagilec/public_html/layouts/footer.php on line 41
+[23-Jul-2021 03:19:11 UTC] PHP Warning:  Undefined array key "about" in /home/teagilec/public_html/layouts/footer.php on line 41
+[23-Jul-2021 03:19:18 UTC] PHP Warning:  Undefined array key "about" in /home/teagilec/public_html/layouts/footer.php on line 41
+[23-Jul-2021 03:19:44 UTC] PHP Warning:  Undefined array key "about" in /home/teagilec/public_html/layouts/footer.php on line 41
+[23-Jul-2021 03:26:36 UTC] PHP Warning:  Undefined array key "about" in /home/teagilec/public_html/layouts/footer.php on line 41
+[23-Jul-2021 03:26:58 UTC] PHP Warning:  Undefined array key "about" in /home/teagilec/public_html/layouts/footer.php on line 41
+[28-Jul-2021 08:10:25 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 312
+[01-Aug-2021 02:26:58 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 312
+[05-Aug-2021 09:08:55 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 312
+[05-Aug-2021 22:08:33 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 312
+[08-Aug-2021 09:06:51 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 312
+[10-Aug-2021 12:00:58 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 312
+[16-Aug-2021 13:29:45 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 312
+[17-Aug-2021 17:31:00 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 312
+[18-Aug-2021 03:30:00 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 312
+[21-Aug-2021 06:57:46 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 312
+[27-Aug-2021 12:52:14 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 312
+[29-Aug-2021 05:49:25 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 312
+[31-Aug-2021 15:05:45 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 312
+[01-Sep-2021 23:43:54 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 312
+[04-Sep-2021 20:07:31 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 312
+[06-Sep-2021 08:00:32 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 312
+[07-Sep-2021 13:20:26 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 312
+[11-Sep-2021 22:47:27 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 312
+[13-Sep-2021 09:51:56 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 312
+[22-Sep-2021 02:02:58 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[22-Sep-2021 23:44:26 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[01-Oct-2021 06:54:07 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[03-Oct-2021 02:30:37 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[03-Oct-2021 15:46:18 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[04-Oct-2021 08:13:36 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[04-Oct-2021 18:03:34 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[07-Oct-2021 15:34:03 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[09-Oct-2021 03:50:53 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[10-Oct-2021 09:03:02 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[11-Oct-2021 10:37:42 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[15-Oct-2021 20:44:51 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[23-Oct-2021 09:11:18 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[24-Oct-2021 00:15:43 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[24-Oct-2021 01:27:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/teagilec/public_html/model/conexion.php on line 7
+[24-Oct-2021 01:27:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/teagilec/public_html/model/conexion.php on line 8
+[24-Oct-2021 01:27:01 UTC] PHP Warning:  Packets out of order. Expected 0 received 1. Packet size=23 in /home/teagilec/public_html/model/conexion.php on line 7
+[24-Oct-2021 01:27:01 UTC] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=1876253 in /home/teagilec/public_html/model/conexion.php on line 7
+[24-Oct-2021 01:27:01 UTC] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/teagilec/public_html/model/conexion.php on line 7
+[24-Oct-2021 01:27:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/teagilec/public_html/model/conexion.php on line 8
+[25-Oct-2021 11:01:45 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[05-Nov-2021 03:26:25 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[07-Nov-2021 01:46:48 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[13-Nov-2021 06:52:20 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[18-Nov-2021 13:19:11 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[19-Nov-2021 08:11:44 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[20-Nov-2021 07:54:39 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[21-Nov-2021 08:13:30 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[22-Nov-2021 10:14:43 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[24-Nov-2021 19:57:27 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[27-Nov-2021 08:18:47 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[29-Nov-2021 07:10:32 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[29-Nov-2021 22:17:29 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[30-Nov-2021 03:53:57 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[05-Dec-2021 03:12:24 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[08-Dec-2021 22:03:16 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[14-Dec-2021 02:09:42 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[15-Dec-2021 14:26:47 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[18-Dec-2021 02:24:49 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[18-Dec-2021 16:51:30 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[23-Dec-2021 05:56:54 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[23-Dec-2021 11:55:28 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[24-Dec-2021 16:35:56 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[26-Dec-2021 10:29:03 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[31-Dec-2021 02:00:19 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[03-Jan-2022 13:04:27 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[06-Jan-2022 16:40:45 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[12-Jan-2022 14:40:22 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[13-Jan-2022 04:35:37 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[13-Jan-2022 19:29:22 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[18-Jan-2022 02:08:25 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[20-Jan-2022 03:31:44 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[22-Jan-2022 00:30:07 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[23-Jan-2022 20:50:55 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[26-Jan-2022 07:16:31 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[26-Jan-2022 09:43:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/teagilec/public_html/model/conexion.php on line 7
+[26-Jan-2022 09:43:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/teagilec/public_html/model/conexion.php on line 8
+[26-Jan-2022 09:43:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/teagilec/public_html/model/conexion.php on line 7
+[26-Jan-2022 09:43:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/teagilec/public_html/model/conexion.php on line 8
+[27-Jan-2022 15:04:11 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[28-Jan-2022 21:21:28 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[29-Jan-2022 05:38:28 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[29-Jan-2022 18:24:19 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[02-Feb-2022 02:40:23 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[03-Feb-2022 02:36:58 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[07-Feb-2022 18:53:22 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[08-Feb-2022 16:27:08 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[09-Feb-2022 02:29:48 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[10-Feb-2022 06:00:21 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[10-Feb-2022 14:37:49 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[10-Feb-2022 21:03:52 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[11-Feb-2022 23:28:10 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[12-Feb-2022 03:01:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/teagilec/public_html/model/conexion.php on line 8
+[12-Feb-2022 03:02:17 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/teagilec/public_html/controllers/funciones.php:47
+Stack trace:
+#0 /home/teagilec/public_html/controllers/funciones.php(47): mysqli_fetch_assoc()
+#1 /home/teagilec/public_html/index.php(4): getContentSlider1()
+#2 {main}
+  thrown in /home/teagilec/public_html/controllers/funciones.php on line 47
+[12-Feb-2022 03:02:20 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/teagilec/public_html/model/conexion.php on line 7
+[12-Feb-2022 03:02:20 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/teagilec/public_html/model/conexion.php on line 8
+[14-Feb-2022 08:16:30 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[14-Feb-2022 22:32:41 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[15-Feb-2022 14:33:16 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[16-Feb-2022 14:02:59 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[18-Feb-2022 04:11:43 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[19-Feb-2022 16:53:40 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[24-Feb-2022 01:07:41 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[24-Feb-2022 04:41:12 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[25-Feb-2022 11:46:46 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[25-Feb-2022 12:39:03 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[25-Feb-2022 15:08:24 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[02-Mar-2022 06:31:53 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[03-Mar-2022 02:46:19 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[05-Mar-2022 09:20:17 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[07-Mar-2022 12:24:29 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[07-Mar-2022 19:57:11 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[07-Mar-2022 22:18:52 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[08-Mar-2022 11:24:09 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[09-Mar-2022 10:16:13 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[10-Mar-2022 04:38:47 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[14-Mar-2022 23:04:43 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[16-Mar-2022 13:46:13 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[16-Mar-2022 20:23:29 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[18-Mar-2022 04:48:42 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[18-Mar-2022 17:42:11 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[19-Mar-2022 00:00:09 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[19-Mar-2022 03:50:08 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[22-Mar-2022 08:29:24 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[22-Mar-2022 11:44:57 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[23-Mar-2022 02:31:38 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[23-Mar-2022 16:32:54 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[24-Mar-2022 17:09:37 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[25-Mar-2022 03:24:53 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[25-Mar-2022 05:23:08 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[27-Mar-2022 16:39:32 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[29-Mar-2022 21:00:17 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[30-Mar-2022 04:57:00 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[30-Mar-2022 17:51:20 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[30-Mar-2022 22:22:04 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[30-Mar-2022 23:43:26 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[31-Mar-2022 18:27:52 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[02-Apr-2022 19:44:29 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[03-Apr-2022 06:16:39 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[05-Apr-2022 01:40:33 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[05-Apr-2022 20:51:29 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[06-Apr-2022 18:35:47 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[09-Apr-2022 17:28:12 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[10-Apr-2022 01:27:53 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[10-Apr-2022 20:30:43 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[12-Apr-2022 14:52:55 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[13-Apr-2022 04:03:12 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[14-Apr-2022 06:08:34 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[15-Apr-2022 01:22:03 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[15-Apr-2022 02:36:59 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[15-Apr-2022 07:19:31 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[16-Apr-2022 09:48:59 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[18-Apr-2022 13:19:56 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[18-Apr-2022 20:22:30 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[19-Apr-2022 05:19:37 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[19-Apr-2022 13:49:38 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[19-Apr-2022 17:53:32 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[21-Apr-2022 12:17:36 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[21-Apr-2022 16:15:32 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[21-Apr-2022 16:34:48 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[21-Apr-2022 18:50:23 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[21-Apr-2022 20:50:29 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[22-Apr-2022 01:02:29 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[22-Apr-2022 05:14:10 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[22-Apr-2022 09:27:33 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[22-Apr-2022 13:55:23 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[22-Apr-2022 15:33:16 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[22-Apr-2022 18:49:01 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[22-Apr-2022 23:04:12 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[23-Apr-2022 03:16:41 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[23-Apr-2022 04:15:45 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[23-Apr-2022 07:26:05 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[23-Apr-2022 10:53:33 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[25-Apr-2022 13:00:29 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[26-Apr-2022 22:42:26 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[27-Apr-2022 17:03:23 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[27-Apr-2022 21:42:05 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[28-Apr-2022 21:53:22 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[30-Apr-2022 09:08:58 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[01-May-2022 00:56:57 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[02-May-2022 15:51:42 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[03-May-2022 05:26:44 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[03-May-2022 15:30:05 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[03-May-2022 16:15:36 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[04-May-2022 04:16:21 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[04-May-2022 15:34:51 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[04-May-2022 16:08:33 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[05-May-2022 00:17:58 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[05-May-2022 11:20:04 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[05-May-2022 18:22:02 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[06-May-2022 01:17:55 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[07-May-2022 14:02:56 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[10-May-2022 02:12:09 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[11-May-2022 21:19:54 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[15-May-2022 01:37:39 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[15-May-2022 03:34:13 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[16-May-2022 10:20:21 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[16-May-2022 14:49:56 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[17-May-2022 05:06:35 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[17-May-2022 05:46:32 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[17-May-2022 06:19:14 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[17-May-2022 13:16:15 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[17-May-2022 13:59:37 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[18-May-2022 05:26:25 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[19-May-2022 18:51:35 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[21-May-2022 17:41:25 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[22-May-2022 07:27:52 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[22-May-2022 23:31:20 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[23-May-2022 12:08:08 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[24-May-2022 22:14:51 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[25-May-2022 16:30:55 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[28-May-2022 04:57:53 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[30-May-2022 06:22:17 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[31-May-2022 11:50:33 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[31-May-2022 20:08:53 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[02-Jun-2022 03:42:29 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[03-Jun-2022 00:52:10 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[03-Jun-2022 01:53:42 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[03-Jun-2022 23:44:15 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[06-Jun-2022 10:19:45 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[06-Jun-2022 11:05:20 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[07-Jun-2022 00:59:08 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[07-Jun-2022 07:32:24 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[07-Jun-2022 13:11:31 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[08-Jun-2022 02:49:19 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[09-Jun-2022 01:40:47 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[09-Jun-2022 17:11:00 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[12-Jun-2022 16:43:43 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[13-Jun-2022 17:23:29 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[13-Jun-2022 19:00:53 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[14-Jun-2022 02:44:11 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[14-Jun-2022 19:28:43 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[15-Jun-2022 11:09:56 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[15-Jun-2022 15:26:56 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[18-Jun-2022 16:41:00 UTC] PHP Warning:  Header may not contain NUL bytes in /home/teagilec/public_html/controllers/funciones.php on line 345
+[19-Jun-2022 19:12:10 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[19-Jun-2022 20:24:29 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[20-Jun-2022 08:07:49 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[20-Jun-2022 19:29:02 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[21-Jun-2022 02:45:40 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[22-Jun-2022 00:04:56 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[22-Jun-2022 11:01:30 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[24-Jun-2022 02:10:52 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[25-Jun-2022 10:54:43 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[26-Jun-2022 03:48:08 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[28-Jun-2022 04:14:21 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[28-Jun-2022 06:58:12 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[29-Jun-2022 05:28:07 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[30-Jun-2022 06:30:01 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[01-Jul-2022 06:40:34 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[01-Jul-2022 19:53:01 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[02-Jul-2022 09:52:45 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[02-Jul-2022 19:05:56 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[05-Jul-2022 03:36:49 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[05-Jul-2022 17:54:08 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[07-Jul-2022 00:54:55 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[08-Jul-2022 01:24:55 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[11-Jul-2022 13:18:42 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[11-Jul-2022 23:52:10 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[12-Jul-2022 08:41:54 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[12-Jul-2022 08:56:11 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[12-Jul-2022 14:16:42 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[16-Jul-2022 08:17:48 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[19-Jul-2022 00:42:11 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345
+[22-Jul-2022 20:02:31 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/teagilec/public_html/controllers/funciones.php on line 345

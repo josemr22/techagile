@@ -1,0 +1,44 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", sans-serif !important;
+}
+
+#bod {
+  background-color: #000000;
+  transition: 0.5s !important;
+}
+
+h1 {
+  letter-spacing: 4px !important;
+  font-size: 3.5rem !important;
+  font-size: large;
+  font-weight: 800 !important;
+  color: #ffffff;
+}
+
+#left {
+  transition: 1.5s;
+}
+#right {
+  transition: 1.5s;
+}
+
+.b1 {
+  background-color: #1abab5 !important;
+}
+
+.b2 {
+  background-color: #051727 !important;
+}
+
+.tel {
+  text-orientation: upright;
+  writing-mode: vertical-rl;
+  font-size: 2.4rem !important;
+}
+#left,
+#right {
+  cursor: pointer;
+}
