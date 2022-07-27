@@ -2,7 +2,7 @@
     <div class="container">
 
         <!-- Logo -->
-        <a class="logo" href="#">
+        <a class="logo" href="/">
             <img src="img/logo-blanco.png" alt="logo">
         </a>
 

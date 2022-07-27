@@ -44,7 +44,9 @@
   box-sizing: border-box;
   outline: none;
   list-style: none; }
-
+html {
+  scroll-behavior: smooth;
+}
 body {
   width: 100% !important;
   color: #0c0f16;
@@ -2972,7 +2974,8 @@ body {
 .min-area .img {
   padding: 120px 0 120px 80px;
   position: relative;
-  z-index: 3; }
+  z-index: 3; 
+}
   .min-area .img:after {
     content: '';
     position: absolute;
@@ -4861,7 +4864,7 @@ background:#33adaf8a;}
     position: relative; }
   .min-area .content,
   .min-area .img {
-    padding: 120px 0; }
+    padding: 10px 0; }
   .services .rtwo > div:nth-of-type(2),
   .services .rone > div:nth-of-type(2) {
     margin-bottom: 0px; }
