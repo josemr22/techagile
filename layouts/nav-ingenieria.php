@@ -15,25 +15,22 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="tecnologia.php">Inicio</a>
-                </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
-                        aria-haspopup="true" aria-expanded="false">¿Quiénes Somos?</a>
-                    <div class="dropdown-menu">
-                        <a class="dropdown-item" href="nosotros.php">Nosotros</a>
-                        <a class="dropdown-item" href="nosotros.php#misvis">Mision</a>
-                        <a class="dropdown-item" href="nosotros.php#misvis">Vision</a>
-                    </div>
+                    <a class="nav-link" href="#home">Inicio</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="servicios.php">Nuestros Servicios</a>
+                    <a class="nav-link" href="#quienes-somos">¿Quiénes Somos?</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="index.php#clientes">Nuestros Clientes</a>
+                    <a class="nav-link" href="#servicios">Nuestros Servicios</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="contactanos.php">Contáctanos</a>
+                    <a class="nav-link" href="#clientes">Nuestros Clientes</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#testimonios">Testimonios</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#contactanos">Contáctanos</a>
                 </li>
             </ul>
 
